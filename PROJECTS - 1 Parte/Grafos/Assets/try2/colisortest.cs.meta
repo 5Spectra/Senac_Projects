@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cd81fd275a2cfb478bf32ac860928bf
+timeCreated: 1490903260
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sr: {instanceID: 0}
+  - preto: {fileID: 21300000, guid: 91b2a8a48f405354ea20a2359e5b25ac, type: 3}
+  - blue: {fileID: 21300000, guid: 430dadfdc36e52f45bd75cf07d44f97b, type: 3}
+  executionOrder: -200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

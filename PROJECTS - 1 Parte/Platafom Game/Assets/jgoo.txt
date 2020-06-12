@@ -1,0 +1,26 @@
+Crie o Jogo QSPDI
+
+Quest - Salvar cena e tudo mais - Pontuação - Dinheiro - Itens.
+
+----------------------------------------------------------------------------
+
+Nome: The Little Slime
+
+Jogo aventura de plataforma onde durante o progresso será adicionado 2 itens:
+
+item 1 - dash
+item 2 - double jump
+
+
+Terá: 1 Menu - Entre fases - 6 fases - 1 fase com boss
+
+Sem história
+
+
+----------------------------------------------------------------------------
+Desafios são:
+Os 2 Itens.
+Fase com boss. Sendo dispensavel.
+
+Desafio extra hard:
+Wall jump.

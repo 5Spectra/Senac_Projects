@@ -1,0 +1,18 @@
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\bin\Debug\Dados roll.exe.config
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\bin\Debug\Dados roll.exe
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\bin\Debug\Dados roll.pdb
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\obj\Debug\Dados roll.csprojResolveAssemblyReference.cache
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\obj\Debug\Dados_roll.Form1.resources
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\obj\Debug\Dados_roll.Properties.Resources.resources
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\obj\Debug\Dados roll.csproj.GenerateResource.Cache
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\obj\Debug\Dados roll.exe
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\Dados roll\Dados roll\obj\Debug\Dados roll.pdb
+T:\Publica\Andre S\Dados roll\Dados roll\bin\Debug\Dados roll.exe.config
+T:\Publica\Andre S\Dados roll\Dados roll\obj\Debug\Dados roll.exe
+T:\Publica\Andre S\Dados roll\Dados roll\obj\Debug\Dados roll.pdb
+T:\Publica\Andre S\Dados roll\Dados roll\bin\Debug\Dados roll.exe
+T:\Publica\Andre S\Dados roll\Dados roll\bin\Debug\Dados roll.pdb
+T:\Publica\Andre S\Dados roll\Dados roll\obj\Debug\Dados roll.csprojResolveAssemblyReference.cache
+T:\Publica\Andre S\Dados roll\Dados roll\obj\Debug\Dados_roll.Form1.resources
+T:\Publica\Andre S\Dados roll\Dados roll\obj\Debug\Dados_roll.Properties.Resources.resources
+T:\Publica\Andre S\Dados roll\Dados roll\obj\Debug\Dados roll.csproj.GenerateResource.Cache

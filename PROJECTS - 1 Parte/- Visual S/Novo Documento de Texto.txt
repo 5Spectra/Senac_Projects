@@ -1,0 +1,138 @@
+            static string nome = "";
+            static string origem = "";
+            static int classe = 0;
+            static int hp = 0, exp = 0, level = 0;
+           static string classeTxt = "";
+
+            static void Main(string[] args)
+            {
+            int opc = 0;
+
+            titulo();
+                Console.WriteLine("Seja bem vindo ao grande Dragon Cave" + "\n");
+                Console.WriteLine("Diga seu nome nobre guerreiro");
+                nome = Console.ReadLine();
+                Console.WriteLine("De onde tus es?");
+                origem = Console.ReadLine();
+
+                do
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Qual sua raça? \n Mago = 1 \n Barbaro = 2 \n Arqueiro = 3 \n Rogue = 4");
+                    Console.WriteLine("Digite o numero de sua classe");
+                    classe = Convert.ToInt32(Console.ReadLine());
+
+                    switch (classe)
+                    {
+                        case 1:
+                            Console.WriteLine("Você é uma Mago");
+                            classeTxt = "Mago";
+                            break;
+
+                        case 2:
+                            Console.WriteLine("Você é uma Barbaro");
+                        classeTxt = "Barbaro";
+                        break;
+
+                        case 3:
+                            Console.WriteLine("Você é uma Paladino");
+                        classeTxt = "Paladino";
+                        break;
+
+                        case 4:
+                            Console.WriteLine("Você é uma Rogue");
+                           classeTxt = "Rogue";
+                            break;
+
+                        default:
+                            Console.WriteLine("Classe invalida \nvocê será redirecionado a escolha");
+                            break;
+                    }
+                    Console.ReadKey();
+                } while (classe < 1 || classe > 4);
+            Console.Clear();
+            MudaHp();
+            //Console.WriteLine(nome + "\n" + origem + classe + hp + exp + level);
+                Ficha();
+
+            Console.ReadKey();
+            Console.Clear();
+
+            Console.WriteLine("Você está em uma floreta escura. \nEscuta um barulho vindo de um arbusto");
+            Console.WriteLine("1 - corre o mais rápido que pode \n2 - Vai até o arbusto \n3 -Começa a chorrar");
+
+            opc = int.Parse(Console.ReadLine());
+
+            if (opc == 1) { correu(); }
+            else if(opc == 2){ olhou(); }
+            else if(opc == 3) { chorrar();  }
+            else { Console.WriteLine("parabens você simplesmente morreu"); }
+            Console.ReadKey();
+            MudarXp(20);
+
+
+        }
+
+            static void titulo() {
+            Console.Title = "Calabouços e dragoes";
+            Console.BackgroundColor = ConsoleColor.DarkBlue ;
+            Console.ForegroundColor = ConsoleColor.Red ;
+            Console.WriteLine();
+            Console.WriteLine("=================================");
+            Console.WriteLine("======Calabouçoes e dragões======");
+            Console.WriteLine("=================================");
+            Console.ResetColor();
+
+
+
+            }
+        static void MudaHp()
+        {
+            if (classe == 1)
+                hp = 50;
+            if (classe == 2)
+                hp = 150;
+            if (classe == 3)
+                hp = 100;
+            if (classe == 4)
+                hp = 250;
+            }
+            static void Ficha(){
+            Console.WriteLine();
+            Console.WriteLine("Nome: " + nome);
+            Console.WriteLine("Origem: " + origem);
+            Console.WriteLine("Classe: " + classeTxt);
+            Console.WriteLine("HP: " + hp);
+            Console.WriteLine("EXP: " + exp);
+            Console.WriteLine("LVL: " + level);
+            Console.WriteLine();
+
+        }
+        static void correu()
+        {
+            Console.WriteLine("Tropeçou deu uma cambalhota cai em pé e ganhou 20 de xp e saio do perigo");
+        }
+
+        static void olhou()
+        {
+            Console.WriteLine("Quando estava preste a olhar no arbusto olhou e morreu de ataque cardiaco");
+        }
+        static void chorrar()
+        {
+            Console.WriteLine("Chorrou tanto que morreu desidratado");
+        }
+
+        static void MudarXp(int valor)
+        {
+            exp = exp + valor;
+            if (exp >= 100)
+            {
+                level = level + 1;
+                exp = exp - 100;
+            }
+        }
+
+
+
+
+

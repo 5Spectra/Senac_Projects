@@ -1,0 +1,4 @@
+-
+velocidadePlayer = float.Parse (txtVelocidade.text);
+-
+transform.rotation = Quaternion.Euler(0,180,0);

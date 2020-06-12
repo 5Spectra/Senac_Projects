@@ -1,0 +1,3 @@
+&& = e
+|| = ou
+!  = negativo (se for está errado está certo)
