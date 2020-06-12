@@ -1,0 +1,9 @@
+l ou L = left  / esquerda
+r ou R = right / direita
+b ou B = baixo  / down
+u ou U = up    / cima
+
+1 = Up
+2 = Down
+3 = Right
+4 = Left

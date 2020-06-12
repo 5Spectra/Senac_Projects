@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 48c9c2494a292fd4fb5e4d9097c091b4
+timeCreated: 1493680373
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gb_walk_0
+    21300002: gb_walk_1
+    21300004: gb_walk_2
+    21300006: gb_walk_3
+    21300008: gb_walk_4
+    21300010: gb_walk_5
+    21300012: gb_walk_6
+    21300014: gb_walk_7
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gb_walk_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 300
+        width: 55
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 74}
+        - {x: -27.5, y: 52}
+        - {x: -27.5, y: -74}
+        - {x: 27.5, y: -74}
+        - {x: 27.5, y: 72}
+        - {x: 26.5, y: 74}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb_walk_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 61
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 72}
+        - {x: 16.5, y: 74}
+        - {x: -16.5, y: 74}
+        - {x: -19.5, y: 66}
+        - {x: -19.5, y: 59}
+        - {x: -30.5, y: -50}
+        - {x: -30.5, y: -74}
+        - {x: 27.5, y: -74}
+        - {x: 28.5, y: -67}
+        - {x: 30.5, y: -38}
+        - {x: 30.5, y: 44}
+      - - {x: -0.5, y: -60}
+        - {x: -1.5, y: -65}
+        - {x: -1.5, y: -69}
+        - {x: -0.5, y: -69}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb_walk_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 299
+        width: 62
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -59.5}
+        - {x: 11, y: -75.5}
+        - {x: 24, y: -75.5}
+        - {x: 31, y: -74.5}
+        - {x: 31, y: 34.5}
+        - {x: 23, y: 75.5}
+        - {x: -14, y: 75.5}
+        - {x: -30, y: 18.5}
+        - {x: -30, y: 11.5}
+        - {x: -28, y: 9.5}
+        - {x: -31, y: 4.5}
+        - {x: -31, y: -16.5}
+        - {x: -20, y: -16.5}
+        - {x: -18, y: -14.5}
+        - {x: -15, y: -8.5}
+        - {x: -31, y: -51.5}
+        - {x: -31, y: -73.5}
+        - {x: -24, y: -75.5}
+        - {x: 0, y: -75.5}
+        - {x: 1, y: -74.5}
+        - {x: 1, y: -70.5}
+        - {x: -3, y: -64.5}
+      - - {x: 8, y: -36.5}
+        - {x: 7, y: -36.5}
+        - {x: 7, y: -39.5}
+        - {x: 8, y: -39.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb_walk_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 296
+        width: 104
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -77}
+        - {x: 8, y: -74}
+        - {x: -8, y: -74}
+        - {x: -9, y: -77}
+      - - {x: -19, y: 77}
+        - {x: -45, y: -4}
+        - {x: -38, y: -24}
+        - {x: -27, y: -22}
+        - {x: -22, y: -14}
+        - {x: -42, y: -47}
+        - {x: -52, y: -52}
+        - {x: -52, y: -73}
+        - {x: -51, y: -75}
+        - {x: 52, y: -75}
+        - {x: 52, y: -4}
+        - {x: 20, y: 77}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb_walk_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 300
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 75}
+        - {x: -27.5, y: 44}
+        - {x: -27.5, y: -75}
+        - {x: 27.5, y: -75}
+        - {x: 27.5, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb_walk_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 299
+        width: 62
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -42.5}
+        - {x: 7, y: -40.5}
+        - {x: 7, y: -35.5}
+        - {x: 8, y: -39.5}
+        - {x: 5, y: -42.5}
+        - {x: 2, y: -47.5}
+        - {x: -1, y: -53.5}
+        - {x: -1, y: -60.5}
+        - {x: 12, y: -73.5}
+        - {x: 17, y: -75.5}
+        - {x: 30, y: -75.5}
+        - {x: 31, y: -73.5}
+        - {x: 31, y: 75.5}
+        - {x: -13, y: 75.5}
+        - {x: -18, y: 68.5}
+        - {x: -31, y: 48.5}
+        - {x: -31, y: -75.5}
+        - {x: 1, y: -75.5}
+        - {x: 2, y: -69.5}
+        - {x: -11, y: -58.5}
+        - {x: 2, y: -47.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb_walk_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 299
+        width: 103
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: -16}
+        - {x: 25.5, y: 73}
+        - {x: -19.5, y: 73}
+        - {x: -51.5, y: 21}
+        - {x: -51.5, y: -70}
+        - {x: -45.5, y: -73}
+        - {x: 51.5, y: -73}
+      - - {x: -18.5, y: -5}
+        - {x: -19.5, y: -5}
+        - {x: -20.5, y: -7}
+        - {x: -18.5, y: -6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb_walk_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 59
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 44}
+        - {x: -29.5, y: -73}
+        - {x: 29.5, y: -73}
+        - {x: 29.5, y: -23}
+        - {x: 21.5, y: 68}
+        - {x: 17.5, y: 73}
+        - {x: -12.5, y: 73}
+        - {x: -23.5, y: 71}
+      - - {x: 2.5, y: -63}
+        - {x: -1.5, y: -56}
+        - {x: 0.5, y: -68}
+        - {x: 1.5, y: -69}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
